@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab33</string>
+    <string name="authors_name_surname">Adam Skowron</string>
+    <string name="option">Opcje</string>
+    <string name="choice">Wybór</string>
+    <string name="font_type">Typ czcionki</string>
+    <string name="italic">Italic</string>
+    <string name="bold">Bold</string>
+    <string name="serif">Serif</string>
+    <string name="font_color">Kolor czcionki</string>
+    <string name="red">Czerwona</string>
+    <string name="green">Zielona</string>
+    <string name="stock">Default</string>
+    <string name="font_size">Rozmiar czcionki</string>
+    <string name="small">Mała</string>
+    <string name="normal">Zwykła</string>
+    <string name="large">Duża</string>
+    <string name="day_mode">Styl dzienny</string>
+    <string name="night_mode">Styl nocny</string>
+    <string name="red_theme">Szlak czerwony</string>
+    <string name="green_theme">Szlak zielony</string>
+    <string name="blue_theme">Szlak niebieski</string>
+    <string name="menu">Menu</string>
+    <string name="red_trail"> Zazwyczaj jest to główny i najważniejszy szlak na danym obszarze. Szlak o sporej długości, który przebiega przez trasę najbardziej wartościową z punktu turystycznego. Na przykład Główny Szlak Sudecki</string>
+    <string name="green_trail">Szlak doprowadzający do charakterystycznych miejsc, lub łącznikowy, czasem też dojściowy.</string>
+    <string name="blue_trail">To drugi pod względem ważności szlak. Prowadzony na długim dystansie, ale nie będący szlakiem głównym.</string>
+    <string name="back">Powrót</string>
+</resources>
